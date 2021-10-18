@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yKdE/TOssIwohayTYhKk73qZ5QezKMC/42PuUdSKYvUEQCaoCHmDUzkepky1XWTjw0y9CMxSnBz0fz79HobR8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vartotojas\\source\\repos\\Elevator_Dispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vartotojas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Vartotojas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Vartotojas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Vartotojas\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.13\\microsoft.netcore.app.host.win-x86.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

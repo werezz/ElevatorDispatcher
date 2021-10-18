@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elevator_Dispatcher", "Elevator_Dispatcher\Elevator_Dispatcher.csproj", "{3C296CA3-42D4-4F48-93E4-DB0CA678B523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator_Dispatcher.Tests", "Elevator_Dispatcher.Tests\Elevator_Dispatcher.Tests.csproj", "{8DD7BAB3-74EF-422D-BAAE-DA9FDAC0BF43}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3C296CA3-42D4-4F48-93E4-DB0CA678B523} = {3C296CA3-42D4-4F48-93E4-DB0CA678B523}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C296CA3-42D4-4F48-93E4-DB0CA678B523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C296CA3-42D4-4F48-93E4-DB0CA678B523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C296CA3-42D4-4F48-93E4-DB0CA678B523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C296CA3-42D4-4F48-93E4-DB0CA678B523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD7BAB3-74EF-422D-BAAE-DA9FDAC0BF43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD7BAB3-74EF-422D-BAAE-DA9FDAC0BF43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD7BAB3-74EF-422D-BAAE-DA9FDAC0BF43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD7BAB3-74EF-422D-BAAE-DA9FDAC0BF43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07E595BA-8812-4CEB-9308-D4814047C99D}
+	EndGlobalSection
+EndGlobal
