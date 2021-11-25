@@ -27,7 +27,7 @@ namespace Elevator_Dispatcher
             services.AddTransient<IElevatorControlService, ElevatorControlService>();
             services.AddTransient<IElevatorRoutingValidationService, ElevatorRoutingValidationService>();
 
-            services.AddSingleton<IElevatorPoolService, ElevatorPoolService>();
+            services.AddTransient<IElevatorPoolService, ElevatorPoolService>();
 
         }
 
