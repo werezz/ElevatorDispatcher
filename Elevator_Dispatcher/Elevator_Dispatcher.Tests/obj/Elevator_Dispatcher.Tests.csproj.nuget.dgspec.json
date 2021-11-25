@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vartotojas\\source\\repos\\Elevator_Dispatcher\\Elevator_Dispatcher.Tests\\Elevator_Dispatcher.Tests.csproj": {}
+    "C:\\work\\ElevatorDispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher.Tests\\Elevator_Dispatcher.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vartotojas\\source\\repos\\Elevator_Dispatcher\\Elevator_Dispatcher.Tests\\Elevator_Dispatcher.Tests.csproj": {
+    "C:\\work\\ElevatorDispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher.Tests\\Elevator_Dispatcher.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vartotojas\\source\\repos\\Elevator_Dispatcher\\Elevator_Dispatcher.Tests\\Elevator_Dispatcher.Tests.csproj",
+        "projectUniqueName": "C:\\work\\ElevatorDispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher.Tests\\Elevator_Dispatcher.Tests.csproj",
         "projectName": "Elevator_Dispatcher.Tests",
-        "projectPath": "C:\\Users\\Vartotojas\\source\\repos\\Elevator_Dispatcher\\Elevator_Dispatcher.Tests\\Elevator_Dispatcher.Tests.csproj",
+        "projectPath": "C:\\work\\ElevatorDispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher.Tests\\Elevator_Dispatcher.Tests.csproj",
         "packagesPath": "C:\\Users\\Vartotojas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vartotojas\\source\\repos\\Elevator_Dispatcher\\Elevator_Dispatcher.Tests\\obj\\",
+        "outputPath": "C:\\work\\ElevatorDispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Vartotojas\\source\\repos\\Elevator_Dispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher.csproj": {
-                "projectPath": "C:\\Users\\Vartotojas\\source\\repos\\Elevator_Dispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher.csproj"
+              "C:\\work\\ElevatorDispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher.csproj": {
+                "projectPath": "C:\\work\\ElevatorDispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher.csproj"
               }
             }
           }
@@ -103,14 +103,14 @@
         }
       }
     },
-    "C:\\Users\\Vartotojas\\source\\repos\\Elevator_Dispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher.csproj": {
+    "C:\\work\\ElevatorDispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vartotojas\\source\\repos\\Elevator_Dispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher.csproj",
+        "projectUniqueName": "C:\\work\\ElevatorDispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher.csproj",
         "projectName": "Elevator_Dispatcher",
-        "projectPath": "C:\\Users\\Vartotojas\\source\\repos\\Elevator_Dispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher.csproj",
+        "projectPath": "C:\\work\\ElevatorDispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher.csproj",
         "packagesPath": "C:\\Users\\Vartotojas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vartotojas\\source\\repos\\Elevator_Dispatcher\\Elevator_Dispatcher\\obj\\",
+        "outputPath": "C:\\work\\ElevatorDispatcher\\Elevator_Dispatcher\\Elevator_Dispatcher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

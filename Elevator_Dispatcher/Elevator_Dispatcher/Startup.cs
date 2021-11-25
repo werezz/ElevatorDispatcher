@@ -21,11 +21,11 @@ namespace Elevator_Dispatcher
         {
             services.AddControllers();
 
-            services.AddScoped<IElevatorRoutingService, ElevatorRoutingService>();
-            services.AddScoped<IElevatorActionLoggingService, ElevatorActionLoggingService>();
-            services.AddScoped<IElevatorStatusService, ElevatorStatusService>();
-            services.AddScoped<IElevatorControlService, ElevatorControlService>();
-            services.AddScoped<IElevatorRoutingValidationService, ElevatorRoutingValidationService>();
+            services.AddTransient<IElevatorRoutingService, ElevatorRoutingService>();
+            services.AddTransient<IElevatorActionLoggingService, ElevatorActionLoggingService>();
+            services.AddTransient<IElevatorStatusService, ElevatorStatusService>();
+            services.AddTransient<IElevatorControlService, ElevatorControlService>();
+            services.AddTransient<IElevatorRoutingValidationService, ElevatorRoutingValidationService>();
 
             services.AddSingleton<IElevatorPoolService, ElevatorPoolService>();
 
